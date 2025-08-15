@@ -1,0 +1,5 @@
+python-telegram-bot
+pytz
+deep-translator
+requests
+Flask==2.3.3
