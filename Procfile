@@ -1,0 +1,1 @@
+worker: python quickmate_bot_fixed.py
