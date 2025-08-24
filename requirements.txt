@@ -1,6 +1,0 @@
-python-telegram-bot[webhooks]==20.6
-pytz
-deep-translator
-requests
-flask
-yt_dlp
