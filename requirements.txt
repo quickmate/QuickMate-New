@@ -1,6 +1,0 @@
-pip==25.2
-python-telegram-bot
-pytz
-deep-translator
-requests
-Flask==2.3.3
